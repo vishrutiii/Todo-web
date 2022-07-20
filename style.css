@@ -3,6 +3,9 @@ body {
 }
 h1{
     color: #9b59b6;
+} 
+.msg{
+    visibility: hidden;
 }
 .todo {
     margin: 0.5rem;
